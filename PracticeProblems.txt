@@ -9,9 +9,3 @@ https://www.hackerearth.com/practice/data-structures/advanced-data-structures/se
 https://www.spoj.com/problems/INVCNT/
 
 
-
-
-
-For more details and code snippet :-
-https://github.com/anshajsharma/cp-nitjsr/blob/main/topics/AdvancedDS.md#segment-tree
-

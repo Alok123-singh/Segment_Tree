@@ -1,0 +1,1 @@
+https://github.com/anshajsharma/cp-nitjsr/blob/main/topics/AdvancedDS.md#segment-tree
